@@ -118,8 +118,4 @@ oneshop/
 │   └── Architecture/
 │
 └── README.md
-```
 
-
-
-Just tell me what you want to polish next 👌
